@@ -1,0 +1,10 @@
+John Doe, 1200, Level 5
+Jane Smith, 1500, Level 6
+Alice Brown, 980, Level 4
+Bob White, 1100, Level 5
+Charlie Black, 1350, Level 6
+Diana Green, 900, Level 3
+Eric Red, 1700, Level 7
+Frank Blue, 1450, Level 6
+Grace Pink, 1050, Level 5
+Helen Yellow, 800, Level 3
